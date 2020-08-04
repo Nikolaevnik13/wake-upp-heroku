@@ -26,7 +26,7 @@ class App extends React.Component {
 
             "https://protest-accounting.herokuapp.com/",
 
-            "https://wake-up-services.herokuapp.com"
+
 
 
         ]
